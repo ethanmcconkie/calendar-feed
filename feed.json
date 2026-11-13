@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T05:48:39-07:00",
+ "generated_at": "2026-11-13T05:48:04-07:00",
  "timezone": "America/Denver",
  "alarms": [
   {
@@ -23,108 +23,6 @@
   }
  ],
  "days": [
-  {
-   "date": "2026-11-12",
-   "weekday": "Thu",
-   "blocks": [
-    {
-     "title": "Get ready",
-     "category": "ready",
-     "start": "6:30 AM",
-     "end": "6:45 AM",
-     "startMin": 390,
-     "minutes": 15
-    },
-    {
-     "title": "Mate",
-     "category": "ready",
-     "start": "6:45 AM",
-     "end": "7:00 AM",
-     "startMin": 405,
-     "minutes": 15
-    },
-    {
-     "title": "Study",
-     "category": "spirit",
-     "start": "7:00 AM",
-     "end": "7:30 AM",
-     "startMin": 420,
-     "minutes": 30
-    },
-    {
-     "title": "Viajes",
-     "category": "rest",
-     "start": "7:30 AM",
-     "end": "7:45 AM",
-     "startMin": 450,
-     "minutes": 15
-    },
-    {
-     "title": "Gym",
-     "category": "body",
-     "start": "7:45 AM",
-     "end": "8:30 AM",
-     "startMin": 465,
-     "minutes": 45
-    },
-    {
-     "title": "Viajes",
-     "category": "rest",
-     "start": "8:30 AM",
-     "end": "8:45 AM",
-     "startMin": 510,
-     "minutes": 15
-    },
-    {
-     "title": "Get ready",
-     "category": "ready",
-     "start": "8:45 AM",
-     "end": "9:00 AM",
-     "startMin": 525,
-     "minutes": 15
-    },
-    {
-     "title": "Viajes",
-     "category": "rest",
-     "start": "9:00 AM",
-     "end": "9:30 AM",
-     "startMin": 540,
-     "minutes": 30
-    },
-    {
-     "title": "Work",
-     "category": "work",
-     "start": "9:30 AM",
-     "end": "6:15 PM",
-     "startMin": 570,
-     "minutes": 525
-    },
-    {
-     "title": "Viajes",
-     "category": "rest",
-     "start": "6:30 PM",
-     "end": "7:00 PM",
-     "startMin": 1110,
-     "minutes": 30
-    },
-    {
-     "title": "Wind down",
-     "category": "rest",
-     "start": "9:30 PM",
-     "end": "10:30 PM",
-     "startMin": 1290,
-     "minutes": 60
-    },
-    {
-     "title": "Bedtime",
-     "category": "rest",
-     "start": "10:30 PM",
-     "end": "11:00 PM",
-     "startMin": 1350,
-     "minutes": 30
-    }
-   ]
-  },
   {
    "date": "2026-11-13",
    "weekday": "Fri",
@@ -546,6 +444,108 @@
   {
    "date": "2026-11-19",
    "weekday": "Thu",
+   "blocks": [
+    {
+     "title": "Get ready",
+     "category": "ready",
+     "start": "6:30 AM",
+     "end": "6:45 AM",
+     "startMin": 390,
+     "minutes": 15
+    },
+    {
+     "title": "Mate",
+     "category": "ready",
+     "start": "6:45 AM",
+     "end": "7:00 AM",
+     "startMin": 405,
+     "minutes": 15
+    },
+    {
+     "title": "Study",
+     "category": "spirit",
+     "start": "7:00 AM",
+     "end": "7:30 AM",
+     "startMin": 420,
+     "minutes": 30
+    },
+    {
+     "title": "Viajes",
+     "category": "rest",
+     "start": "7:30 AM",
+     "end": "7:45 AM",
+     "startMin": 450,
+     "minutes": 15
+    },
+    {
+     "title": "Gym",
+     "category": "body",
+     "start": "7:45 AM",
+     "end": "8:30 AM",
+     "startMin": 465,
+     "minutes": 45
+    },
+    {
+     "title": "Viajes",
+     "category": "rest",
+     "start": "8:30 AM",
+     "end": "8:45 AM",
+     "startMin": 510,
+     "minutes": 15
+    },
+    {
+     "title": "Get ready",
+     "category": "ready",
+     "start": "8:45 AM",
+     "end": "9:00 AM",
+     "startMin": 525,
+     "minutes": 15
+    },
+    {
+     "title": "Viajes",
+     "category": "rest",
+     "start": "9:00 AM",
+     "end": "9:30 AM",
+     "startMin": 540,
+     "minutes": 30
+    },
+    {
+     "title": "Work",
+     "category": "work",
+     "start": "9:45 AM",
+     "end": "6:30 PM",
+     "startMin": 585,
+     "minutes": 525
+    },
+    {
+     "title": "Viajes",
+     "category": "rest",
+     "start": "6:30 PM",
+     "end": "7:00 PM",
+     "startMin": 1110,
+     "minutes": 30
+    },
+    {
+     "title": "Wind down",
+     "category": "rest",
+     "start": "9:30 PM",
+     "end": "10:30 PM",
+     "startMin": 1290,
+     "minutes": 60
+    },
+    {
+     "title": "Bedtime",
+     "category": "rest",
+     "start": "10:30 PM",
+     "end": "11:00 PM",
+     "startMin": 1350,
+     "minutes": 30
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "Fri",
    "blocks": [
     {
      "title": "Get ready",
