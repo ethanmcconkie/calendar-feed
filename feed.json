@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:47:41-07:00",
+ "generated_at": "2026-11-15T05:48:01-07:00",
  "timezone": "America/Denver",
  "alarms": [
   {
@@ -23,11 +23,6 @@
   }
  ],
  "days": [
-  {
-   "date": "2026-11-14",
-   "weekday": "Sat",
-   "blocks": []
-  },
   {
    "date": "2026-11-15",
    "weekday": "Sun",
@@ -546,6 +541,11 @@
   {
    "date": "2026-11-21",
    "weekday": "Sat",
+   "blocks": []
+  },
+  {
+   "date": "2026-11-22",
+   "weekday": "Sun",
    "blocks": []
   }
  ]
