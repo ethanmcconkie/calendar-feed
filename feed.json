@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:47:54-07:00",
+ "generated_at": "2026-11-16T07:30:03-07:00",
  "timezone": "America/Denver",
  "alarms": [
   {
@@ -30,42 +30,42 @@
     {
      "title": "Get ready",
      "category": "ready",
-     "start": "6:30 AM",
-     "end": "6:45 AM",
-     "startMin": 390,
-     "minutes": 15
+     "start": "7:00 AM",
+     "end": "7:20 AM",
+     "startMin": 420,
+     "minutes": 20
     },
     {
      "title": "Mate",
      "category": "ready",
-     "start": "6:45 AM",
-     "end": "7:00 AM",
-     "startMin": 405,
+     "start": "7:20 AM",
+     "end": "7:35 AM",
+     "startMin": 440,
      "minutes": 15
     },
     {
      "title": "Study",
      "category": "spirit",
-     "start": "7:00 AM",
-     "end": "7:30 AM",
-     "startMin": 420,
-     "minutes": 30
-    },
-    {
-     "title": "Viajes",
-     "category": "rest",
      "start": "7:30 AM",
      "end": "7:45 AM",
      "startMin": 450,
      "minutes": 15
     },
     {
+     "title": "Viajes",
+     "category": "rest",
+     "start": "7:45 AM",
+     "end": "8:00 AM",
+     "startMin": 465,
+     "minutes": 15
+    },
+    {
      "title": "Gym",
      "category": "body",
-     "start": "7:45 AM",
+     "start": "8:00 AM",
      "end": "8:30 AM",
-     "startMin": 465,
-     "minutes": 45
+     "startMin": 480,
+     "minutes": 30
     },
     {
      "title": "Viajes",
